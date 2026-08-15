@@ -26,7 +26,7 @@ MiniMax 于 2026-07 发布的通用多模态视频模型（海螺 3.0）：
 | 变量 | 必填 | 默认 | 说明 |
 |------|------|------|------|
 | `MINIMAX_API_KEY` | ✅ | — | MiniMax 开放平台 API Key |
-| `MINIMAX_BASE_URL` | ❌ | `https://api.minimax.io` | 基础 URL，第三方聚合（EvoLink 等）改这里 |
+| `MINIMAX_BASE_URL` | ❌ | `https://api.minimaxi.com` | 基础 URL，第三方聚合（EvoLink 等）改这里 |
 | `MINIMAX_VIDEO_MODEL` | ❌ | `MiniMax-H3` | 视频模型 ID |
 
 ## 安装与运行
